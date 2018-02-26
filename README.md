@@ -1,2 +1,2 @@
 # juniper
-# some juniper stuff
+some juniper stuff

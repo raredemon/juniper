@@ -1,0 +1,3 @@
+set system login class noc permissions view
+set system login class noc permissions view-configuration
+set system login user noc class noc
